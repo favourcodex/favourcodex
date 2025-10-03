@@ -1,12 +1,10 @@
- About Me:
-Hi, I’m Azubike Favour 
+<h1> Hi, I’m Azubike Favour </h1> 
 I’m a passionate web developer who loves building creative, user-friendly, and impactful digital experiences. I specialize in frontend development with HTML, CSS, JavaScript, and React, and I’m also exploring backend development with PHP and Node.js.
 
 I enjoy working on projects like radio streaming platforms, movie websites, and music discovery apps, and I’m always excited to collaborate on open-source projects.
 
 When I’m not coding, you’ll probably find me listening to music, brainstorming new ideas, or learning something new in tech.  
-<br><br>---<br><br>  I'm currently working on  <br>Building a full-stack radio streaming platform and a movie site called MovieHive.  <br><br> I'm looking for help with  <br>Optimizing API integrations and making my projects scale smoothly.  <br><br> I'm looking to collaborate on  <br>Open-source web apps, music or media platforms, and fun side projects.  <br><br>  I'm currently learning  <br>Advanced JavaScript, backend with PHP, and improving my React skills.  <br><br> Ask me about  <br>Frontend design, creating streaming sites, or building cool interactive UIs.  <br><br>  Fun fact  <br>I can code for hours with music on repeat and still not notice the playlist ended.  <br>
-
+<br><br><br><br>  I'm currently working on  <br>Building a full-stack radio streaming platform and a movie site called MovieHive.  <br><br> I'm looking for help with  <br>Optimizing API integrations and making my projects scale smoothly.  <br><br> I'm looking to collaborate on  <br>Open-source web apps, music or media platforms, and fun side projects.  <br><br>  I'm currently learning  <br>Advanced JavaScript, backend with PHP, and improving my React skills.  <br><br> Ask me about  <br>Frontend design, creating streaming sites, or building cool interactive UIs.  <br><br>  Fun fact  <br>I can code for hours with music on repeat and still not notice the playlist ended.  <br>
 
 ##  Socials
 
